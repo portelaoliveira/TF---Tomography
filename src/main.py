@@ -22,7 +22,7 @@ ga = np.array(geo)
 ng = len(geo)
 numbersg = np.arange(ng)
 
-s = generate_data(start_source_x, start_source_y, length_sx, length_sy, source_spacing_x, source_spacing_y)
+s = generate_data(start_source_x, start_source_y, length_sx, length_sy, source_spacing_x, source_spacing_y, True)
 filename = save_file(s)
 s = read_file()
 sour = array_convert(s)
