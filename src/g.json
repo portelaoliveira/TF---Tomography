@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "coord_x": 3.5,
+        "coord_y": 2.5
+    },
+    {
+        "id": 2,
+        "coord_x": 3.5,
+        "coord_y": 3.5
+    },
+    {
+        "id": 3,
+        "coord_x": 3.5,
+        "coord_y": 4.5
+    },
+    {
+        "id": 4,
+        "coord_x": 3.5,
+        "coord_y": 5.5
+    },
+    {
+        "id": 5,
+        "coord_x": 3.5,
+        "coord_y": 6.5
+    },
+    {
+        "id": 6,
+        "coord_x": 3.5,
+        "coord_y": 7.5
+    },
+    {
+        "id": 7,
+        "coord_x": 4.5,
+        "coord_y": 2.5
+    },
+    {
+        "id": 8,
+        "coord_x": 4.5,
+        "coord_y": 3.5
+    },
+    {
+        "id": 9,
+        "coord_x": 4.5,
+        "coord_y": 4.5
+    },
+    {
+        "id": 10,
+        "coord_x": 4.5,
+        "coord_y": 5.5
+    },
+    {
+        "id": 11,
+        "coord_x": 4.5,
+        "coord_y": 6.5
+    },
+    {
+        "id": 12,
+        "coord_x": 4.5,
+        "coord_y": 7.5
+    },
+    {
+        "id": 13,
+        "coord_x": 5.5,
+        "coord_y": 2.5
+    },
+    {
+        "id": 14,
+        "coord_x": 5.5,
+        "coord_y": 3.5
+    },
+    {
+        "id": 15,
+        "coord_x": 5.5,
+        "coord_y": 4.5
+    },
+    {
+        "id": 16,
+        "coord_x": 5.5,
+        "coord_y": 5.5
+    },
+    {
+        "id": 17,
+        "coord_x": 5.5,
+        "coord_y": 6.5
+    },
+    {
+        "id": 18,
+        "coord_x": 5.5,
+        "coord_y": 7.5
+    },
+    {
+        "id": 19,
+        "coord_x": 6.5,
+        "coord_y": 2.5
+    },
+    {
+        "id": 20,
+        "coord_x": 6.5,
+        "coord_y": 3.5
+    },
+    {
+        "id": 21,
+        "coord_x": 6.5,
+        "coord_y": 4.5
+    },
+    {
+        "id": 22,
+        "coord_x": 6.5,
+        "coord_y": 5.5
+    },
+    {
+        "id": 23,
+        "coord_x": 6.5,
+        "coord_y": 6.5
+    },
+    {
+        "id": 24,
+        "coord_x": 6.5,
+        "coord_y": 7.5
+    }
+]

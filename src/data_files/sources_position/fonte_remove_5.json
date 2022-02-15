@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "coord_x": 3.25,
+        "coord_y": 3.25
+    },
+    {
+        "id": 2,
+        "coord_x": 3.25,
+        "coord_y": 5.5
+    },
+    {
+        "id": 3,
+        "coord_x": 3.25,
+        "coord_y": 7.75
+    },
+    {
+        "id": 4,
+        "coord_x": 5.5,
+        "coord_y": 3.25
+    },
+    {
+        "id": 6,
+        "coord_x": 5.5,
+        "coord_y": 7.75
+    },
+    {
+        "id": 7,
+        "coord_x": 7.75,
+        "coord_y": 3.25
+    },
+    {
+        "id": 8,
+        "coord_x": 7.75,
+        "coord_y": 5.5
+    },
+    {
+        "id": 9,
+        "coord_x": 7.75,
+        "coord_y": 7.75
+    }
+]

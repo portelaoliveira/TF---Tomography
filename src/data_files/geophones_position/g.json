@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "coord_x": 3.75,
+        "coord_y": 3.5
+    },
+    {
+        "id": 2,
+        "coord_x": 3.75,
+        "coord_y": 4.0
+    },
+    {
+        "id": 3,
+        "coord_x": 3.75,
+        "coord_y": 4.5
+    },
+    {
+        "id": 4,
+        "coord_x": 3.75,
+        "coord_y": 5.0
+    },
+    {
+        "id": 5,
+        "coord_x": 3.75,
+        "coord_y": 5.5
+    },
+    {
+        "id": 6,
+        "coord_x": 3.75,
+        "coord_y": 6.0
+    },
+    {
+        "id": 7,
+        "coord_x": 3.75,
+        "coord_y": 6.5
+    },
+    {
+        "id": 8,
+        "coord_x": 3.75,
+        "coord_y": 7.0
+    },
+    {
+        "id": 9,
+        "coord_x": 3.75,
+        "coord_y": 7.5
+    },
+    {
+        "id": 10,
+        "coord_x": 4.25,
+        "coord_y": 3.5
+    },
+    {
+        "id": 11,
+        "coord_x": 4.25,
+        "coord_y": 4.0
+    },
+    {
+        "id": 12,
+        "coord_x": 4.25,
+        "coord_y": 4.5
+    },
+    {
+        "id": 13,
+        "coord_x": 4.25,
+        "coord_y": 5.0
+    },
+    {
+        "id": 14,
+        "coord_x": 4.25,
+        "coord_y": 5.5
+    },
+    {
+        "id": 15,
+        "coord_x": 4.25,
+        "coord_y": 6.0
+    },
+    {
+        "id": 16,
+        "coord_x": 4.25,
+        "coord_y": 6.5
+    },
+    {
+        "id": 17,
+        "coord_x": 4.25,
+        "coord_y": 7.0
+    },
+    {
+        "id": 18,
+        "coord_x": 4.25,
+        "coord_y": 7.5
+    },
+    {
+        "id": 19,
+        "coord_x": 4.75,
+        "coord_y": 3.5
+    },
+    {
+        "id": 20,
+        "coord_x": 4.75,
+        "coord_y": 4.0
+    },
+    {
+        "id": 21,
+        "coord_x": 4.75,
+        "coord_y": 4.5
+    },
+    {
+        "id": 22,
+        "coord_x": 4.75,
+        "coord_y": 5.0
+    },
+    {
+        "id": 23,
+        "coord_x": 4.75,
+        "coord_y": 5.5
+    },
+    {
+        "id": 24,
+        "coord_x": 4.75,
+        "coord_y": 6.0
+    },
+    {
+        "id": 25,
+        "coord_x": 4.75,
+        "coord_y": 6.5
+    },
+    {
+        "id": 26,
+        "coord_x": 4.75,
+        "coord_y": 7.0
+    },
+    {
+        "id": 27,
+        "coord_x": 4.75,
+        "coord_y": 7.5
+    },
+    {
+        "id": 28,
+        "coord_x": 5.25,
+        "coord_y": 3.5
+    },
+    {
+        "id": 29,
+        "coord_x": 5.25,
+        "coord_y": 4.0
+    },
+    {
+        "id": 30,
+        "coord_x": 5.25,
+        "coord_y": 4.5
+    },
+    {
+        "id": 31,
+        "coord_x": 5.25,
+        "coord_y": 5.0
+    },
+    {
+        "id": 32,
+        "coord_x": 5.25,
+        "coord_y": 5.5
+    },
+    {
+        "id": 33,
+        "coord_x": 5.25,
+        "coord_y": 6.0
+    },
+    {
+        "id": 34,
+        "coord_x": 5.25,
+        "coord_y": 6.5
+    },
+    {
+        "id": 35,
+        "coord_x": 5.25,
+        "coord_y": 7.0
+    },
+    {
+        "id": 36,
+        "coord_x": 5.25,
+        "coord_y": 7.5
+    },
+    {
+        "id": 37,
+        "coord_x": 5.75,
+        "coord_y": 3.5
+    },
+    {
+        "id": 38,
+        "coord_x": 5.75,
+        "coord_y": 4.0
+    },
+    {
+        "id": 39,
+        "coord_x": 5.75,
+        "coord_y": 4.5
+    },
+    {
+        "id": 40,
+        "coord_x": 5.75,
+        "coord_y": 5.0
+    },
+    {
+        "id": 41,
+        "coord_x": 5.75,
+        "coord_y": 5.5
+    },
+    {
+        "id": 42,
+        "coord_x": 5.75,
+        "coord_y": 6.0
+    },
+    {
+        "id": 43,
+        "coord_x": 5.75,
+        "coord_y": 6.5
+    },
+    {
+        "id": 44,
+        "coord_x": 5.75,
+        "coord_y": 7.0
+    },
+    {
+        "id": 45,
+        "coord_x": 5.75,
+        "coord_y": 7.5
+    },
+    {
+        "id": 46,
+        "coord_x": 6.25,
+        "coord_y": 3.5
+    },
+    {
+        "id": 47,
+        "coord_x": 6.25,
+        "coord_y": 4.0
+    },
+    {
+        "id": 48,
+        "coord_x": 6.25,
+        "coord_y": 4.5
+    },
+    {
+        "id": 49,
+        "coord_x": 6.25,
+        "coord_y": 5.0
+    },
+    {
+        "id": 50,
+        "coord_x": 6.25,
+        "coord_y": 5.5
+    },
+    {
+        "id": 51,
+        "coord_x": 6.25,
+        "coord_y": 6.0
+    },
+    {
+        "id": 52,
+        "coord_x": 6.25,
+        "coord_y": 6.5
+    },
+    {
+        "id": 53,
+        "coord_x": 6.25,
+        "coord_y": 7.0
+    },
+    {
+        "id": 54,
+        "coord_x": 6.25,
+        "coord_y": 7.5
+    },
+    {
+        "id": 55,
+        "coord_x": 6.75,
+        "coord_y": 3.5
+    },
+    {
+        "id": 56,
+        "coord_x": 6.75,
+        "coord_y": 4.0
+    },
+    {
+        "id": 57,
+        "coord_x": 6.75,
+        "coord_y": 4.5
+    },
+    {
+        "id": 58,
+        "coord_x": 6.75,
+        "coord_y": 5.0
+    },
+    {
+        "id": 59,
+        "coord_x": 6.75,
+        "coord_y": 5.5
+    },
+    {
+        "id": 60,
+        "coord_x": 6.75,
+        "coord_y": 6.0
+    },
+    {
+        "id": 61,
+        "coord_x": 6.75,
+        "coord_y": 6.5
+    },
+    {
+        "id": 62,
+        "coord_x": 6.75,
+        "coord_y": 7.0
+    },
+    {
+        "id": 63,
+        "coord_x": 6.75,
+        "coord_y": 7.5
+    },
+    {
+        "id": 64,
+        "coord_x": 7.25,
+        "coord_y": 3.5
+    },
+    {
+        "id": 65,
+        "coord_x": 7.25,
+        "coord_y": 4.0
+    },
+    {
+        "id": 66,
+        "coord_x": 7.25,
+        "coord_y": 4.5
+    },
+    {
+        "id": 67,
+        "coord_x": 7.25,
+        "coord_y": 5.0
+    },
+    {
+        "id": 68,
+        "coord_x": 7.25,
+        "coord_y": 5.5
+    },
+    {
+        "id": 69,
+        "coord_x": 7.25,
+        "coord_y": 6.0
+    },
+    {
+        "id": 70,
+        "coord_x": 7.25,
+        "coord_y": 6.5
+    },
+    {
+        "id": 71,
+        "coord_x": 7.25,
+        "coord_y": 7.0
+    },
+    {
+        "id": 72,
+        "coord_x": 7.25,
+        "coord_y": 7.5
+    }
+]
