@@ -1,7 +1,6 @@
 import numpy as np
 from typing import List, Dict
 
-
 def generate_data(start_x: float, start_y: float, length_gx: float, length_gy: float, spacing_x: float, spacing_y: float, fg:bool = False) -> List[Dict]:
     results = []
     count = 0
@@ -11,7 +10,7 @@ def generate_data(start_x: float, start_y: float, length_gx: float, length_gy: f
         for x in np.arange(start_x, length_gx, spacing_x):
             inverse = not inverse
             signal = -1 if inverse else 1
-            for y in np.arange( length_gy - 1 if inverse else start_y, start_y - 1  if inverse else length_gy,  signal * spacing_y ):
+            for y in np.arange( length_gy - spacing_y if inverse else start_y, start_y - spacing_y  if inverse else length_gy,  signal * spacing_y ):
                 count += 1
                 results.append({
                     "id":count,
@@ -30,7 +29,3 @@ def generate_data(start_x: float, start_y: float, length_gx: float, length_gy: f
                 "coord_y":y
             })
     return results 
-    
-
-# r = generate_data(3.0, 2.0, 11.0, 14.0, 4.0, 6.0)
-# print(r)
