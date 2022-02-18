@@ -1,22 +1,22 @@
 [
     {
-        "id": 1,
-        "coord_x": 2.75,
-        "coord_y": 2.5
+        "source_id": 1,
+        "coord_source_x": 2.75,
+        "coord_source_y": 2.5
     },
     {
-        "id": 2,
-        "coord_x": 2.75,
-        "coord_y": 7.5
+        "source_id": 2,
+        "coord_source_x": 2.75,
+        "coord_source_y": 7.5
     },
     {
-        "id": 3,
-        "coord_x": 7.25,
-        "coord_y": 2.5
+        "source_id": 3,
+        "coord_source_x": 7.25,
+        "coord_source_y": 2.5
     },
     {
-        "id": 4,
-        "coord_x": 7.25,
-        "coord_y": 7.5
+        "source_id": 4,
+        "coord_source_x": 7.25,
+        "coord_source_y": 7.5
     }
 ]

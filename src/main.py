@@ -1,7 +1,7 @@
 from config.parameters import*
 from itertools import product
 from components.file_dialog import save_file, read_file
-from utils.convert_array import array_convert
+from utils.convert_array import array_convert_sensor_or_source
 from utils.create_crosshole import createSeismicData
 import numpy as np
 import pygimli as pg
@@ -15,9 +15,9 @@ world = create_world([0.0, (bh_length)], [(bh_spacing), 0.0], 0)
 g = generate_data(start_x, start_y, length_gx, length_gy, sensor_spacing_x, sensor_spacing_y)
 filename = save_file(g)
 g = read_file()
-geo = array_convert(g)
+geo = array_convert_sensor_or_source(g)
 elements=[]
-elements = array_convert(g)
+elements = array_convert_sensor_or_source(g)
 ga = np.array(geo)
 ng = len(geo)
 numbersg = np.arange(ng)
@@ -25,7 +25,7 @@ numbersg = np.arange(ng)
 s = generate_data(start_source_x, start_source_y, length_sx, length_sy, source_spacing_x, source_spacing_y, True)
 filename = save_file(s)
 s = read_file()
-sour = array_convert(s)
+sour = array_convert_sensor_or_source(s, True)
 sa = np.array(sour)
 ns = len(sour)
 numberss = np.arange(ns)
@@ -51,8 +51,6 @@ tt, data = travel_time_manager(mesh_fwd, scheme, model)
 
 mesh = inversion_mesh_grid(0, bh_spacing + refinement, bh_length + refinement, 
                             refinement, ga[:, 0], ga[:, 1], sa[:, 0], sa[:, 1])
-
-tt.inv.inv.setRecalcJacobian(True)
 
 invmodel = invert(tt, data, mesh)
 
