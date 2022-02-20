@@ -1,7 +1,7 @@
 import numpy as np
 from typing import List, Dict
 
-def generate_data(start_x: float, start_y: float, length_gx: float, length_gy: float, spacing_x: float, spacing_y: float, sensor_or_source:bool = False) -> List[Dict]:
+def generate_data_sensor_or_source(start_x: float, start_y: float, length_gx: float, length_gy: float, spacing_x: float, spacing_y: float, sensor_or_source:bool = False) -> List[Dict]:
     results = []
     count = 0
     inverse = True

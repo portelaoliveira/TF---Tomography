@@ -1,0 +1,22 @@
+[
+    {
+        "source_id": 1,
+        "coord_source_x": 3.0,
+        "coord_source_y": 2.0
+    },
+    {
+        "source_id": 2,
+        "coord_source_x": 3.0,
+        "coord_source_y": 8.0
+    },
+    {
+        "source_id": 3,
+        "coord_source_x": 7.0,
+        "coord_source_y": 2.0
+    },
+    {
+        "source_id": 4,
+        "coord_source_x": 7.0,
+        "coord_source_y": 8.0
+    }
+]

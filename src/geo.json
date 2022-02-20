@@ -1,0 +1,122 @@
+[
+    {
+        "sensor_id": 1,
+        "coord_sensor_x": 3.5,
+        "coord_sensor_y": 2.5
+    },
+    {
+        "sensor_id": 2,
+        "coord_sensor_x": 3.5,
+        "coord_sensor_y": 3.5
+    },
+    {
+        "sensor_id": 3,
+        "coord_sensor_x": 3.5,
+        "coord_sensor_y": 4.5
+    },
+    {
+        "sensor_id": 4,
+        "coord_sensor_x": 3.5,
+        "coord_sensor_y": 5.5
+    },
+    {
+        "sensor_id": 5,
+        "coord_sensor_x": 3.5,
+        "coord_sensor_y": 6.5
+    },
+    {
+        "sensor_id": 6,
+        "coord_sensor_x": 3.5,
+        "coord_sensor_y": 7.5
+    },
+    {
+        "sensor_id": 7,
+        "coord_sensor_x": 4.5,
+        "coord_sensor_y": 7.5
+    },
+    {
+        "sensor_id": 8,
+        "coord_sensor_x": 4.5,
+        "coord_sensor_y": 6.5
+    },
+    {
+        "sensor_id": 9,
+        "coord_sensor_x": 4.5,
+        "coord_sensor_y": 5.5
+    },
+    {
+        "sensor_id": 10,
+        "coord_sensor_x": 4.5,
+        "coord_sensor_y": 4.5
+    },
+    {
+        "sensor_id": 11,
+        "coord_sensor_x": 4.5,
+        "coord_sensor_y": 3.5
+    },
+    {
+        "sensor_id": 12,
+        "coord_sensor_x": 4.5,
+        "coord_sensor_y": 2.5
+    },
+    {
+        "sensor_id": 13,
+        "coord_sensor_x": 5.5,
+        "coord_sensor_y": 2.5
+    },
+    {
+        "sensor_id": 14,
+        "coord_sensor_x": 5.5,
+        "coord_sensor_y": 3.5
+    },
+    {
+        "sensor_id": 15,
+        "coord_sensor_x": 5.5,
+        "coord_sensor_y": 4.5
+    },
+    {
+        "sensor_id": 16,
+        "coord_sensor_x": 5.5,
+        "coord_sensor_y": 5.5
+    },
+    {
+        "sensor_id": 17,
+        "coord_sensor_x": 5.5,
+        "coord_sensor_y": 6.5
+    },
+    {
+        "sensor_id": 18,
+        "coord_sensor_x": 5.5,
+        "coord_sensor_y": 7.5
+    },
+    {
+        "sensor_id": 19,
+        "coord_sensor_x": 6.5,
+        "coord_sensor_y": 7.5
+    },
+    {
+        "sensor_id": 20,
+        "coord_sensor_x": 6.5,
+        "coord_sensor_y": 6.5
+    },
+    {
+        "sensor_id": 21,
+        "coord_sensor_x": 6.5,
+        "coord_sensor_y": 5.5
+    },
+    {
+        "sensor_id": 22,
+        "coord_sensor_x": 6.5,
+        "coord_sensor_y": 4.5
+    },
+    {
+        "sensor_id": 23,
+        "coord_sensor_x": 6.5,
+        "coord_sensor_y": 3.5
+    },
+    {
+        "sensor_id": 24,
+        "coord_sensor_x": 6.5,
+        "coord_sensor_y": 2.5
+    }
+]

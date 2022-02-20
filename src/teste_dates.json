@@ -1,7 +1,7 @@
 [
     {
         "sensor_id": 1,
-        "travel_time": 0.00034627290323702565,
+        "travel_time": 16.125002,
         "coord_sensor_x": 3.5,
         "coord_sensor_y": 2.5,
         "source_id": 1,
@@ -10,7 +10,7 @@
     },
     {
         "sensor_id": 2,
-        "travel_time": 0.0027642588511331088,
+        "travel_time": 16.125002,
         "coord_sensor_x": 3.5,
         "coord_sensor_y": 3.5,
         "source_id": 1,
@@ -19,7 +19,7 @@
     },
     {
         "sensor_id": 3,
-        "travel_time": 0.0017700913847518835,
+        "travel_time": 21.250002,
         "coord_sensor_x": 3.5,
         "coord_sensor_y": 4.5,
         "source_id": 1,
@@ -28,7 +28,7 @@
     },
     {
         "sensor_id": 4,
-        "travel_time": 0.003180947910701712,
+        "travel_time": 27.750004,
         "coord_sensor_x": 3.5,
         "coord_sensor_y": 5.5,
         "source_id": 1,
@@ -37,7 +37,7 @@
     },
     {
         "sensor_id": 5,
-        "travel_time": 0.0007964226191157918,
+        "travel_time": 33.250004,
         "coord_sensor_x": 3.5,
         "coord_sensor_y": 6.5,
         "source_id": 1,
@@ -46,7 +46,7 @@
     },
     {
         "sensor_id": 6,
-        "travel_time": 0.0022456021407219924,
+        "travel_time": 39.000004,
         "coord_sensor_x": 3.5,
         "coord_sensor_y": 7.5,
         "source_id": 1,
@@ -55,7 +55,7 @@
     },
     {
         "sensor_id": 7,
-        "travel_time": 0.0019028896003197178,
+        "travel_time": 44.875004,
         "coord_sensor_x": 4.5,
         "coord_sensor_y": 7.5,
         "source_id": 1,
@@ -64,7 +64,7 @@
     },
     {
         "sensor_id": 8,
-        "travel_time": 0.0027973909326622377,
+        "travel_time": 50.000008,
         "coord_sensor_x": 4.5,
         "coord_sensor_y": 6.5,
         "source_id": 1,
@@ -73,7 +73,7 @@
     },
     {
         "sensor_id": 9,
-        "travel_time": 0.0012943365398551039,
+        "travel_time": 56.500008,
         "coord_sensor_x": 4.5,
         "coord_sensor_y": 5.5,
         "source_id": 1,
@@ -82,7 +82,7 @@
     },
     {
         "sensor_id": 10,
-        "travel_time": 0.001760703352642523,
+        "travel_time": 62.125008,
         "coord_sensor_x": 4.5,
         "coord_sensor_y": 4.5,
         "source_id": 1,
@@ -91,7 +91,7 @@
     },
     {
         "sensor_id": 11,
-        "travel_time": 0.0021780087829250134,
+        "travel_time": 67.750008,
         "coord_sensor_x": 4.5,
         "coord_sensor_y": 3.5,
         "source_id": 1,
@@ -100,7 +100,7 @@
     },
     {
         "sensor_id": 12,
-        "travel_time": 0.0024719373815831427,
+        "travel_time": 71.875008,
         "coord_sensor_x": 4.5,
         "coord_sensor_y": 2.5,
         "source_id": 1,
@@ -109,7 +109,7 @@
     },
     {
         "sensor_id": 13,
-        "travel_time": 0.001767303121704737,
+        "travel_time": 75.500008,
         "coord_sensor_x": 5.5,
         "coord_sensor_y": 2.5,
         "source_id": 1,
@@ -118,7 +118,7 @@
     },
     {
         "sensor_id": 14,
-        "travel_time": 0.0012939422790576997,
+        "travel_time": 78.625008,
         "coord_sensor_x": 5.5,
         "coord_sensor_y": 3.5,
         "source_id": 1,
@@ -127,7 +127,7 @@
     },
     {
         "sensor_id": 15,
-        "travel_time": 0.0024878524387570763,
+        "travel_time": 79.625008,
         "coord_sensor_x": 5.5,
         "coord_sensor_y": 4.5,
         "source_id": 1,
@@ -136,7 +136,7 @@
     },
     {
         "sensor_id": 16,
-        "travel_time": 0.002138490731233121,
+        "travel_time": 84.875008,
         "coord_sensor_x": 5.5,
         "coord_sensor_y": 5.5,
         "source_id": 1,
@@ -145,7 +145,7 @@
     },
     {
         "sensor_id": 17,
-        "travel_time": 0.0022653328975515267,
+        "travel_time": 85.375008,
         "coord_sensor_x": 5.5,
         "coord_sensor_y": 6.5,
         "source_id": 1,
@@ -154,7 +154,7 @@
     },
     {
         "sensor_id": 18,
-        "travel_time": 0.0007987117963911297,
+        "travel_time": 87.333336,
         "coord_sensor_x": 5.5,
         "coord_sensor_y": 7.5,
         "source_id": 1,
@@ -163,7 +163,7 @@
     },
     {
         "sensor_id": 19,
-        "travel_time": 0.002806190270348141,
+        "travel_time": 87.333336,
         "coord_sensor_x": 6.5,
         "coord_sensor_y": 7.5,
         "source_id": 1,
@@ -172,7 +172,7 @@
     },
     {
         "sensor_id": 20,
-        "travel_time": 0.0018940234222779978,
+        "travel_time": 87.333336,
         "coord_sensor_x": 6.5,
         "coord_sensor_y": 6.5,
         "source_id": 1,
@@ -181,7 +181,7 @@
     },
     {
         "sensor_id": 21,
-        "travel_time": 0.0027572703634467163,
+        "travel_time": 87.333336,
         "coord_sensor_x": 6.5,
         "coord_sensor_y": 5.5,
         "source_id": 1,
@@ -190,7 +190,7 @@
     },
     {
         "sensor_id": 22,
-        "travel_time": 0.0003535383288415487,
+        "travel_time": 87.333336,
         "coord_sensor_x": 6.5,
         "coord_sensor_y": 4.5,
         "source_id": 1,
@@ -199,7 +199,7 @@
     },
     {
         "sensor_id": 23,
-        "travel_time": 0.0031869046207994045,
+        "travel_time": 87.333336,
         "coord_sensor_x": 6.5,
         "coord_sensor_y": 3.5,
         "source_id": 1,
@@ -208,7 +208,7 @@
     },
     {
         "sensor_id": 24,
-        "travel_time": 0.0017709369352875333,
+        "travel_time": 87.333336,
         "coord_sensor_x": 6.5,
         "coord_sensor_y": 2.5,
         "source_id": 1,
@@ -217,7 +217,7 @@
     },
     {
         "sensor_id": 1,
-        "travel_time": 0.0028798234223263836,
+        "travel_time": 0.375,
         "coord_sensor_x": 3.5,
         "coord_sensor_y": 2.5,
         "source_id": 2,
@@ -226,7 +226,7 @@
     },
     {
         "sensor_id": 2,
-        "travel_time": 0.0007961040981203279,
+        "travel_time": 1.111111,
         "coord_sensor_x": 3.5,
         "coord_sensor_y": 3.5,
         "source_id": 2,
@@ -235,7 +235,7 @@
     },
     {
         "sensor_id": 3,
-        "travel_time": 0.002996536054274881,
+        "travel_time": 5.125,
         "coord_sensor_x": 3.5,
         "coord_sensor_y": 4.5,
         "source_id": 2,
@@ -244,7 +244,7 @@
     },
     {
         "sensor_id": 4,
-        "travel_time": 0.0012489143520885834,
+        "travel_time": 11.875001,
         "coord_sensor_x": 3.5,
         "coord_sensor_y": 5.5,
         "source_id": 2,
@@ -253,7 +253,7 @@
     },
     {
         "sensor_id": 5,
-        "travel_time": 0.0023752079080030324,
+        "travel_time": 17.865248,
         "coord_sensor_x": 3.5,
         "coord_sensor_y": 6.5,
         "source_id": 2,
@@ -262,7 +262,7 @@
     },
     {
         "sensor_id": 6,
-        "travel_time": 0.0010633260007776668,
+        "travel_time": 24.898346,
         "coord_sensor_x": 3.5,
         "coord_sensor_y": 7.5,
         "source_id": 2,
@@ -271,7 +271,7 @@
     },
     {
         "sensor_id": 7,
-        "travel_time": 0.0025430807839636463,
+        "travel_time": 31.931444,
         "coord_sensor_x": 4.5,
         "coord_sensor_y": 7.5,
         "source_id": 2,
@@ -280,7 +280,7 @@
     },
     {
         "sensor_id": 8,
-        "travel_time": 0.001451313479947386,
+        "travel_time": 38.964542,
         "coord_sensor_x": 4.5,
         "coord_sensor_y": 6.5,
         "source_id": 2,
@@ -289,7 +289,7 @@
     },
     {
         "sensor_id": 9,
-        "travel_time": 0.0019150456081815208,
+        "travel_time": 45.500004,
         "coord_sensor_x": 4.5,
         "coord_sensor_y": 5.5,
         "source_id": 2,
@@ -298,7 +298,7 @@
     },
     {
         "sensor_id": 10,
-        "travel_time": 0.0014498674817546495,
+        "travel_time": 46.500004,
         "coord_sensor_x": 4.5,
         "coord_sensor_y": 4.5,
         "source_id": 2,
@@ -307,7 +307,7 @@
     },
     {
         "sensor_id": 11,
-        "travel_time": 0.0020907891839748636,
+        "travel_time": 52.125008,
         "coord_sensor_x": 4.5,
         "coord_sensor_y": 3.5,
         "source_id": 2,
@@ -316,7 +316,7 @@
     },
     {
         "sensor_id": 12,
-        "travel_time": 0.0017733894750475477,
+        "travel_time": 57.625008,
         "coord_sensor_x": 4.5,
         "coord_sensor_y": 2.5,
         "source_id": 2,
@@ -325,7 +325,7 @@
     },
     {
         "sensor_id": 13,
-        "travel_time": 0.0014686564914264668,
+        "travel_time": 62.375008,
         "coord_sensor_x": 5.5,
         "coord_sensor_y": 2.5,
         "source_id": 2,
@@ -334,7 +334,7 @@
     },
     {
         "sensor_id": 14,
-        "travel_time": 0.0019082722099275913,
+        "travel_time": 65.625008,
         "coord_sensor_x": 5.5,
         "coord_sensor_y": 3.5,
         "source_id": 2,
@@ -343,7 +343,7 @@
     },
     {
         "sensor_id": 15,
-        "travel_time": 0.001772729757885268,
+        "travel_time": 68.500008,
         "coord_sensor_x": 5.5,
         "coord_sensor_y": 4.5,
         "source_id": 2,
@@ -352,7 +352,7 @@
     },
     {
         "sensor_id": 16,
-        "travel_time": 0.002087589651519052,
+        "travel_time": 70.625008,
         "coord_sensor_x": 5.5,
         "coord_sensor_y": 5.5,
         "source_id": 2,
@@ -361,7 +361,7 @@
     },
     {
         "sensor_id": 17,
-        "travel_time": 0.0010759304719419975,
+        "travel_time": 74.375008,
         "coord_sensor_x": 5.5,
         "coord_sensor_y": 6.5,
         "source_id": 2,
@@ -370,7 +370,7 @@
     },
     {
         "sensor_id": 18,
-        "travel_time": 0.0023673630490629663,
+        "travel_time": 82.750008,
         "coord_sensor_x": 5.5,
         "coord_sensor_y": 7.5,
         "source_id": 2,
@@ -379,7 +379,7 @@
     },
     {
         "sensor_id": 19,
-        "travel_time": 0.0014510173051637872,
+        "travel_time": 81.280067,
         "coord_sensor_x": 6.5,
         "coord_sensor_y": 7.5,
         "source_id": 2,
@@ -388,7 +388,7 @@
     },
     {
         "sensor_id": 20,
-        "travel_time": 0.002530965811895445,
+        "travel_time": 83.235954,
         "coord_sensor_x": 6.5,
         "coord_sensor_y": 6.5,
         "source_id": 2,
@@ -397,7 +397,7 @@
     },
     {
         "sensor_id": 21,
-        "travel_time": 0.0007997210813453894,
+        "travel_time": 85.191841,
         "coord_sensor_x": 6.5,
         "coord_sensor_y": 5.5,
         "source_id": 2,
@@ -406,7 +406,7 @@
     },
     {
         "sensor_id": 22,
-        "travel_time": 0.002865263690871212,
+        "travel_time": 87.147736,
         "coord_sensor_x": 6.5,
         "coord_sensor_y": 4.5,
         "source_id": 2,
@@ -415,7 +415,7 @@
     },
     {
         "sensor_id": 23,
-        "travel_time": 0.0012958283183667559,
+        "travel_time": 89.103622,
         "coord_sensor_x": 6.5,
         "coord_sensor_y": 3.5,
         "source_id": 2,
@@ -424,7 +424,7 @@
     },
     {
         "sensor_id": 24,
-        "travel_time": 0.0029771455349933093,
+        "travel_time": 91.059509,
         "coord_sensor_x": 6.5,
         "coord_sensor_y": 2.5,
         "source_id": 2,
@@ -433,7 +433,7 @@
     },
     {
         "sensor_id": 1,
-        "travel_time": 0.001280501684910935,
+        "travel_time": 62.000008,
         "coord_sensor_x": 3.5,
         "coord_sensor_y": 2.5,
         "source_id": 3,
@@ -442,7 +442,7 @@
     },
     {
         "sensor_id": 2,
-        "travel_time": 0.002960390540512893,
+        "travel_time": 59.875008,
         "coord_sensor_x": 3.5,
         "coord_sensor_y": 3.5,
         "source_id": 3,
@@ -451,7 +451,7 @@
     },
     {
         "sensor_id": 3,
-        "travel_time": 0.0007901455804643032,
+        "travel_time": 54.444443,
         "coord_sensor_x": 3.5,
         "coord_sensor_y": 4.5,
         "source_id": 3,
@@ -460,7 +460,7 @@
     },
     {
         "sensor_id": 4,
-        "travel_time": 0.002849420943103158,
+        "travel_time": 52.000008,
         "coord_sensor_x": 3.5,
         "coord_sensor_y": 5.5,
         "source_id": 3,
@@ -469,7 +469,7 @@
     },
     {
         "sensor_id": 5,
-        "travel_time": 0.0014372141591059155,
+        "travel_time": 48.875008,
         "coord_sensor_x": 3.5,
         "coord_sensor_y": 6.5,
         "source_id": 3,
@@ -478,7 +478,7 @@
     },
     {
         "sensor_id": 6,
-        "travel_time": 0.0025051036874326137,
+        "travel_time": 41.500004,
         "coord_sensor_x": 3.5,
         "coord_sensor_y": 7.5,
         "source_id": 3,
@@ -487,7 +487,7 @@
     },
     {
         "sensor_id": 7,
-        "travel_time": 0.0010647571898531993,
+        "travel_time": 35.125004,
         "coord_sensor_x": 4.5,
         "coord_sensor_y": 7.5,
         "source_id": 3,
@@ -496,7 +496,7 @@
     },
     {
         "sensor_id": 8,
-        "travel_time": 0.0024022400038724015,
+        "travel_time": 26.125004,
         "coord_sensor_x": 4.5,
         "coord_sensor_y": 6.5,
         "source_id": 3,
@@ -505,7 +505,7 @@
     },
     {
         "sensor_id": 9,
-        "travel_time": 0.0017799784419749035,
+        "travel_time": 17.250002,
         "coord_sensor_x": 4.5,
         "coord_sensor_y": 5.5,
         "source_id": 3,
@@ -514,7 +514,7 @@
     },
     {
         "sensor_id": 10,
-        "travel_time": 0.0020864283542274564,
+        "travel_time": 11.125001,
         "coord_sensor_x": 4.5,
         "coord_sensor_y": 4.5,
         "source_id": 3,
@@ -523,7 +523,7 @@
     },
     {
         "sensor_id": 11,
-        "travel_time": 0.00147752224028378,
+        "travel_time": 6.000001,
         "coord_sensor_x": 4.5,
         "coord_sensor_y": 3.5,
         "source_id": 3,
@@ -532,7 +532,7 @@
     },
     {
         "sensor_id": 12,
-        "travel_time": 0.0018972976688207443,
+        "travel_time": 0.25,
         "coord_sensor_x": 4.5,
         "coord_sensor_y": 2.5,
         "source_id": 3,
@@ -541,7 +541,7 @@
     },
     {
         "sensor_id": 13,
-        "travel_time": 0.0020861527194931356,
+        "travel_time": 2.222222,
         "coord_sensor_x": 5.5,
         "coord_sensor_y": 2.5,
         "source_id": 3,
@@ -550,7 +550,7 @@
     },
     {
         "sensor_id": 14,
-        "travel_time": 0.0017747882444746974,
+        "travel_time": 6.666667,
         "coord_sensor_x": 5.5,
         "coord_sensor_y": 3.5,
         "source_id": 3,
@@ -559,7 +559,7 @@
     },
     {
         "sensor_id": 15,
-        "travel_time": 0.0018924007781315679,
+        "travel_time": 9.111111,
         "coord_sensor_x": 5.5,
         "coord_sensor_y": 4.5,
         "source_id": 3,
@@ -568,7 +568,7 @@
     },
     {
         "sensor_id": 16,
-        "travel_time": 0.0014376916956959243,
+        "travel_time": 17.500002,
         "coord_sensor_x": 5.5,
         "coord_sensor_y": 5.5,
         "source_id": 3,
@@ -577,7 +577,7 @@
     },
     {
         "sensor_id": 17,
-        "travel_time": 0.0025209229215043885,
+        "travel_time": 23.777779,
         "coord_sensor_x": 5.5,
         "coord_sensor_y": 6.5,
         "source_id": 3,
@@ -586,7 +586,7 @@
     },
     {
         "sensor_id": 18,
-        "travel_time": 0.0014711094758756416,
+        "travel_time": 29.250004,
         "coord_sensor_x": 5.5,
         "coord_sensor_y": 7.5,
         "source_id": 3,
@@ -595,7 +595,7 @@
     },
     {
         "sensor_id": 19,
-        "travel_time": 0.002362979559284158,
+        "travel_time": 36.666668,
         "coord_sensor_x": 6.5,
         "coord_sensor_y": 7.5,
         "source_id": 3,
@@ -604,7 +604,7 @@
     },
     {
         "sensor_id": 20,
-        "travel_time": 0.0010648183221387446,
+        "travel_time": 46.888889,
         "coord_sensor_x": 6.5,
         "coord_sensor_y": 6.5,
         "source_id": 3,
@@ -613,7 +613,7 @@
     },
     {
         "sensor_id": 21,
-        "travel_time": 0.002994750434628236,
+        "travel_time": 51.777779,
         "coord_sensor_x": 6.5,
         "coord_sensor_y": 5.5,
         "source_id": 3,
@@ -622,7 +622,7 @@
     },
     {
         "sensor_id": 22,
-        "travel_time": 0.0012896263592838948,
+        "travel_time": 53.750008,
         "coord_sensor_x": 6.5,
         "coord_sensor_y": 4.5,
         "source_id": 3,
@@ -631,7 +631,7 @@
     },
     {
         "sensor_id": 23,
-        "travel_time": 0.0028561776663208267,
+        "travel_time": 54.625008,
         "coord_sensor_x": 6.5,
         "coord_sensor_y": 3.5,
         "source_id": 3,
@@ -640,7 +640,7 @@
     },
     {
         "sensor_id": 24,
-        "travel_time": 0.0007994124951437952,
+        "travel_time": 57.125008,
         "coord_sensor_x": 6.5,
         "coord_sensor_y": 2.5,
         "source_id": 3,
@@ -649,7 +649,7 @@
     },
     {
         "sensor_id": 1,
-        "travel_time": 0.0031717198134052424,
+        "travel_time": 88.802658,
         "coord_sensor_x": 3.5,
         "coord_sensor_y": 2.5,
         "source_id": 4,
@@ -658,7 +658,7 @@
     },
     {
         "sensor_id": 2,
-        "travel_time": 0.0017639445003208487,
+        "travel_time": 87.475952,
         "coord_sensor_x": 3.5,
         "coord_sensor_y": 3.5,
         "source_id": 4,
@@ -667,7 +667,7 @@
     },
     {
         "sensor_id": 3,
-        "travel_time": 0.0027603754427257517,
+        "travel_time": 86.149254,
         "coord_sensor_x": 3.5,
         "coord_sensor_y": 4.5,
         "source_id": 4,
@@ -676,7 +676,7 @@
     },
     {
         "sensor_id": 4,
-        "travel_time": 0.0003538711524523149,
+        "travel_time": 84.822556,
         "coord_sensor_x": 3.5,
         "coord_sensor_y": 5.5,
         "source_id": 4,
@@ -685,7 +685,7 @@
     },
     {
         "sensor_id": 5,
-        "travel_time": 0.0028000261686121743,
+        "travel_time": 83.495857,
         "coord_sensor_x": 3.5,
         "coord_sensor_y": 6.5,
         "source_id": 4,
@@ -694,7 +694,7 @@
     },
     {
         "sensor_id": 6,
-        "travel_time": 0.0019046762244843134,
+        "travel_time": 82.169151,
         "coord_sensor_x": 3.5,
         "coord_sensor_y": 7.5,
         "source_id": 4,
@@ -703,7 +703,7 @@
     },
     {
         "sensor_id": 7,
-        "travel_time": 0.002278059746509775,
+        "travel_time": 80.842453,
         "coord_sensor_x": 4.5,
         "coord_sensor_y": 7.5,
         "source_id": 4,
@@ -712,7 +712,7 @@
     },
     {
         "sensor_id": 8,
-        "travel_time": 0.0008027165152163816,
+        "travel_time": 79.375008,
         "coord_sensor_x": 4.5,
         "coord_sensor_y": 6.5,
         "source_id": 4,
@@ -721,7 +721,7 @@
     },
     {
         "sensor_id": 9,
-        "travel_time": 0.0024856731451545094,
+        "travel_time": 76.250008,
         "coord_sensor_x": 4.5,
         "coord_sensor_y": 5.5,
         "source_id": 4,
@@ -730,7 +730,7 @@
     },
     {
         "sensor_id": 10,
-        "travel_time": 0.002156738758538477,
+        "travel_time": 73.625008,
         "coord_sensor_x": 4.5,
         "coord_sensor_y": 4.5,
         "source_id": 4,
@@ -739,7 +739,7 @@
     },
     {
         "sensor_id": 11,
-        "travel_time": 0.0017942717022480445,
+        "travel_time": 72.000008,
         "coord_sensor_x": 4.5,
         "coord_sensor_y": 3.5,
         "source_id": 4,
@@ -748,7 +748,7 @@
     },
     {
         "sensor_id": 12,
-        "travel_time": 0.0012695660848514238,
+        "travel_time": 68.222221,
         "coord_sensor_x": 4.5,
         "coord_sensor_y": 2.5,
         "source_id": 4,
@@ -757,7 +757,7 @@
     },
     {
         "sensor_id": 13,
-        "travel_time": 0.002155116687259239,
+        "travel_time": 60.222221,
         "coord_sensor_x": 5.5,
         "coord_sensor_y": 2.5,
         "source_id": 4,
@@ -766,7 +766,7 @@
     },
     {
         "sensor_id": 14,
-        "travel_time": 0.0024677059520818753,
+        "travel_time": 51.375008,
         "coord_sensor_x": 5.5,
         "coord_sensor_y": 3.5,
         "source_id": 4,
@@ -775,7 +775,7 @@
     },
     {
         "sensor_id": 15,
-        "travel_time": 0.001276661593523231,
+        "travel_time": 48.125008,
         "coord_sensor_x": 5.5,
         "coord_sensor_y": 4.5,
         "source_id": 4,
@@ -784,7 +784,7 @@
     },
     {
         "sensor_id": 16,
-        "travel_time": 0.0017509909108711706,
+        "travel_time": 44.875004,
         "coord_sensor_x": 5.5,
         "coord_sensor_y": 5.5,
         "source_id": 4,
@@ -793,7 +793,7 @@
     },
     {
         "sensor_id": 17,
-        "travel_time": 0.0019223356996369886,
+        "travel_time": 41.125004,
         "coord_sensor_x": 5.5,
         "coord_sensor_y": 6.5,
         "source_id": 4,
@@ -802,7 +802,7 @@
     },
     {
         "sensor_id": 18,
-        "travel_time": 0.0027960402549850405,
+        "travel_time": 36.875004,
         "coord_sensor_x": 5.5,
         "coord_sensor_y": 7.5,
         "source_id": 4,
@@ -811,7 +811,7 @@
     },
     {
         "sensor_id": 19,
-        "travel_time": 0.0007922770767249111,
+        "travel_time": 27.875004,
         "coord_sensor_x": 6.5,
         "coord_sensor_y": 7.5,
         "source_id": 4,
@@ -820,7 +820,7 @@
     },
     {
         "sensor_id": 20,
-        "travel_time": 0.0022663158470109628,
+        "travel_time": 21.875002,
         "coord_sensor_x": 6.5,
         "coord_sensor_y": 6.5,
         "source_id": 4,
@@ -829,7 +829,7 @@
     },
     {
         "sensor_id": 21,
-        "travel_time": 0.0017844977713751004,
+        "travel_time": 13.750002,
         "coord_sensor_x": 6.5,
         "coord_sensor_y": 5.5,
         "source_id": 4,
@@ -838,7 +838,7 @@
     },
     {
         "sensor_id": 22,
-        "travel_time": 0.003182911805639143,
+        "travel_time": 11.000001,
         "coord_sensor_x": 6.5,
         "coord_sensor_y": 4.5,
         "source_id": 4,
@@ -847,7 +847,7 @@
     },
     {
         "sensor_id": 23,
-        "travel_time": 0.0003611511351622464,
+        "travel_time": 2.666667,
         "coord_sensor_x": 6.5,
         "coord_sensor_y": 3.5,
         "source_id": 4,
@@ -856,7 +856,7 @@
     },
     {
         "sensor_id": 24,
-        "travel_time": 0.0027748699155765826,
+        "travel_time": 0.125,
         "coord_sensor_x": 6.5,
         "coord_sensor_y": 2.5,
         "source_id": 4,
