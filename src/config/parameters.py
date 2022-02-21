@@ -1,6 +1,6 @@
 from config.calculate_start_sensor import start_sensors 
 
-# Acquisition parameters
+# Acquisition parameters - Field
 
 bh_spacing = 10.0 # Largura em eixo x - Metros
 bh_length = 10.0  # Largura em eixo y - Metros
