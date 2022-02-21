@@ -38,7 +38,7 @@ def invert(tt: Any, data: Any, mesh: Any, secnodes: int = 3, lam: int = 1000, zw
 def true_model_and_inversion_result(mesh_fwd: Any, model: Any, tt: Any, ga: List, ga1: List, sa: List, sa1: List) -> Any:
     fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(8, 7), sharex=True, sharey=True)
     ax1.set_title("Forward model and mesh")
-    ax2.set_title("Inversion result")
+    ax2.set_title("Inversion result - Real data")
     
     pg.show(mesh_fwd, model, ax=ax1, showMesh=True,
             label=pg.unit('vel'), cMap=pg.cmap('vel'), nLevs=3)

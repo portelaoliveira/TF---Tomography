@@ -1,7 +1,5 @@
-import numpy as np
-import json
 from tkinter import Tk
-from tkinter.filedialog import askopenfilename, asksaveasfile
+from tkinter.filedialog import askopenfilename
 from typing import Any, Dict, List, Tuple
 
 def formatted_data(data: List[List]) -> Tuple[List, int, int]:
@@ -49,6 +47,7 @@ def joing_datas(genereted_source_date: List[Dict],genereted_sensor_date: List[Di
         for sensor in source["sensors"]:
             result.append(
                 {
+                "trace_id": f'S{count_id:04d}G{int(sensor["sensor_id"]):04d}',
                 **sensor,
                 **genereted_sensor_date[count],
                 "source_id": count_id,
@@ -57,6 +56,6 @@ def joing_datas(genereted_source_date: List[Dict],genereted_sensor_date: List[Di
             }
             )
             count += 1
-    
+            
     return result
     

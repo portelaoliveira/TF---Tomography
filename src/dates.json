@@ -1,5 +1,6 @@
 [
     {
+        "trace_id": "S0001G0001",
         "sensor_id": 1,
         "travel_time": 0.00034627290323702565,
         "coord_sensor_x": 3.5,
@@ -9,6 +10,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0001G0002",
         "sensor_id": 2,
         "travel_time": 0.0027642588511331088,
         "coord_sensor_x": 3.5,
@@ -18,6 +20,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0001G0003",
         "sensor_id": 3,
         "travel_time": 0.0017700913847518835,
         "coord_sensor_x": 3.5,
@@ -27,6 +30,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0001G0004",
         "sensor_id": 4,
         "travel_time": 0.003180947910701712,
         "coord_sensor_x": 3.5,
@@ -36,6 +40,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0001G0005",
         "sensor_id": 5,
         "travel_time": 0.0007964226191157918,
         "coord_sensor_x": 3.5,
@@ -45,6 +50,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0001G0006",
         "sensor_id": 6,
         "travel_time": 0.0022456021407219924,
         "coord_sensor_x": 3.5,
@@ -54,6 +60,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0001G0007",
         "sensor_id": 7,
         "travel_time": 0.0019028896003197178,
         "coord_sensor_x": 4.5,
@@ -63,6 +70,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0001G0008",
         "sensor_id": 8,
         "travel_time": 0.0027973909326622377,
         "coord_sensor_x": 4.5,
@@ -72,6 +80,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0001G0009",
         "sensor_id": 9,
         "travel_time": 0.0012943365398551039,
         "coord_sensor_x": 4.5,
@@ -81,6 +90,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0001G0010",
         "sensor_id": 10,
         "travel_time": 0.001760703352642523,
         "coord_sensor_x": 4.5,
@@ -90,6 +100,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0001G0011",
         "sensor_id": 11,
         "travel_time": 0.0021780087829250134,
         "coord_sensor_x": 4.5,
@@ -99,6 +110,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0001G0012",
         "sensor_id": 12,
         "travel_time": 0.0024719373815831427,
         "coord_sensor_x": 4.5,
@@ -108,6 +120,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0001G0013",
         "sensor_id": 13,
         "travel_time": 0.001767303121704737,
         "coord_sensor_x": 5.5,
@@ -117,6 +130,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0001G0014",
         "sensor_id": 14,
         "travel_time": 0.0012939422790576997,
         "coord_sensor_x": 5.5,
@@ -126,6 +140,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0001G0015",
         "sensor_id": 15,
         "travel_time": 0.0024878524387570763,
         "coord_sensor_x": 5.5,
@@ -135,6 +150,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0001G0016",
         "sensor_id": 16,
         "travel_time": 0.002138490731233121,
         "coord_sensor_x": 5.5,
@@ -144,6 +160,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0001G0017",
         "sensor_id": 17,
         "travel_time": 0.0022653328975515267,
         "coord_sensor_x": 5.5,
@@ -153,6 +170,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0001G0018",
         "sensor_id": 18,
         "travel_time": 0.0007987117963911297,
         "coord_sensor_x": 5.5,
@@ -162,6 +180,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0001G0019",
         "sensor_id": 19,
         "travel_time": 0.002806190270348141,
         "coord_sensor_x": 6.5,
@@ -171,6 +190,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0001G0020",
         "sensor_id": 20,
         "travel_time": 0.0018940234222779978,
         "coord_sensor_x": 6.5,
@@ -180,6 +200,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0001G0021",
         "sensor_id": 21,
         "travel_time": 0.0027572703634467163,
         "coord_sensor_x": 6.5,
@@ -189,6 +210,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0001G0022",
         "sensor_id": 22,
         "travel_time": 0.0003535383288415487,
         "coord_sensor_x": 6.5,
@@ -198,6 +220,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0001G0023",
         "sensor_id": 23,
         "travel_time": 0.0031869046207994045,
         "coord_sensor_x": 6.5,
@@ -207,6 +230,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0001G0024",
         "sensor_id": 24,
         "travel_time": 0.0017709369352875333,
         "coord_sensor_x": 6.5,
@@ -216,6 +240,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0002G0001",
         "sensor_id": 1,
         "travel_time": 0.0028798234223263836,
         "coord_sensor_x": 3.5,
@@ -225,6 +250,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0002G0002",
         "sensor_id": 2,
         "travel_time": 0.0007961040981203279,
         "coord_sensor_x": 3.5,
@@ -234,6 +260,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0002G0003",
         "sensor_id": 3,
         "travel_time": 0.002996536054274881,
         "coord_sensor_x": 3.5,
@@ -243,6 +270,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0002G0004",
         "sensor_id": 4,
         "travel_time": 0.0012489143520885834,
         "coord_sensor_x": 3.5,
@@ -252,6 +280,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0002G0005",
         "sensor_id": 5,
         "travel_time": 0.0023752079080030324,
         "coord_sensor_x": 3.5,
@@ -261,6 +290,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0002G0006",
         "sensor_id": 6,
         "travel_time": 0.0010633260007776668,
         "coord_sensor_x": 3.5,
@@ -270,6 +300,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0002G0007",
         "sensor_id": 7,
         "travel_time": 0.0025430807839636463,
         "coord_sensor_x": 4.5,
@@ -279,6 +310,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0002G0008",
         "sensor_id": 8,
         "travel_time": 0.001451313479947386,
         "coord_sensor_x": 4.5,
@@ -288,6 +320,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0002G0009",
         "sensor_id": 9,
         "travel_time": 0.0019150456081815208,
         "coord_sensor_x": 4.5,
@@ -297,6 +330,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0002G0010",
         "sensor_id": 10,
         "travel_time": 0.0014498674817546495,
         "coord_sensor_x": 4.5,
@@ -306,6 +340,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0002G0011",
         "sensor_id": 11,
         "travel_time": 0.0020907891839748636,
         "coord_sensor_x": 4.5,
@@ -315,6 +350,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0002G0012",
         "sensor_id": 12,
         "travel_time": 0.0017733894750475477,
         "coord_sensor_x": 4.5,
@@ -324,6 +360,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0002G0013",
         "sensor_id": 13,
         "travel_time": 0.0014686564914264668,
         "coord_sensor_x": 5.5,
@@ -333,6 +370,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0002G0014",
         "sensor_id": 14,
         "travel_time": 0.0019082722099275913,
         "coord_sensor_x": 5.5,
@@ -342,6 +380,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0002G0015",
         "sensor_id": 15,
         "travel_time": 0.001772729757885268,
         "coord_sensor_x": 5.5,
@@ -351,6 +390,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0002G0016",
         "sensor_id": 16,
         "travel_time": 0.002087589651519052,
         "coord_sensor_x": 5.5,
@@ -360,6 +400,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0002G0017",
         "sensor_id": 17,
         "travel_time": 0.0010759304719419975,
         "coord_sensor_x": 5.5,
@@ -369,6 +410,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0002G0018",
         "sensor_id": 18,
         "travel_time": 0.0023673630490629663,
         "coord_sensor_x": 5.5,
@@ -378,6 +420,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0002G0019",
         "sensor_id": 19,
         "travel_time": 0.0014510173051637872,
         "coord_sensor_x": 6.5,
@@ -387,6 +430,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0002G0020",
         "sensor_id": 20,
         "travel_time": 0.002530965811895445,
         "coord_sensor_x": 6.5,
@@ -396,6 +440,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0002G0021",
         "sensor_id": 21,
         "travel_time": 0.0007997210813453894,
         "coord_sensor_x": 6.5,
@@ -405,6 +450,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0002G0022",
         "sensor_id": 22,
         "travel_time": 0.002865263690871212,
         "coord_sensor_x": 6.5,
@@ -414,6 +460,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0002G0023",
         "sensor_id": 23,
         "travel_time": 0.0012958283183667559,
         "coord_sensor_x": 6.5,
@@ -423,6 +470,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0002G0024",
         "sensor_id": 24,
         "travel_time": 0.0029771455349933093,
         "coord_sensor_x": 6.5,
@@ -432,6 +480,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0003G0001",
         "sensor_id": 1,
         "travel_time": 0.001280501684910935,
         "coord_sensor_x": 3.5,
@@ -441,6 +490,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0003G0002",
         "sensor_id": 2,
         "travel_time": 0.002960390540512893,
         "coord_sensor_x": 3.5,
@@ -450,6 +500,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0003G0003",
         "sensor_id": 3,
         "travel_time": 0.0007901455804643032,
         "coord_sensor_x": 3.5,
@@ -459,6 +510,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0003G0004",
         "sensor_id": 4,
         "travel_time": 0.002849420943103158,
         "coord_sensor_x": 3.5,
@@ -468,6 +520,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0003G0005",
         "sensor_id": 5,
         "travel_time": 0.0014372141591059155,
         "coord_sensor_x": 3.5,
@@ -477,6 +530,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0003G0006",
         "sensor_id": 6,
         "travel_time": 0.0025051036874326137,
         "coord_sensor_x": 3.5,
@@ -486,6 +540,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0003G0007",
         "sensor_id": 7,
         "travel_time": 0.0010647571898531993,
         "coord_sensor_x": 4.5,
@@ -495,6 +550,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0003G0008",
         "sensor_id": 8,
         "travel_time": 0.0024022400038724015,
         "coord_sensor_x": 4.5,
@@ -504,6 +560,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0003G0009",
         "sensor_id": 9,
         "travel_time": 0.0017799784419749035,
         "coord_sensor_x": 4.5,
@@ -513,6 +570,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0003G0010",
         "sensor_id": 10,
         "travel_time": 0.0020864283542274564,
         "coord_sensor_x": 4.5,
@@ -522,6 +580,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0003G0011",
         "sensor_id": 11,
         "travel_time": 0.00147752224028378,
         "coord_sensor_x": 4.5,
@@ -531,6 +590,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0003G0012",
         "sensor_id": 12,
         "travel_time": 0.0018972976688207443,
         "coord_sensor_x": 4.5,
@@ -540,6 +600,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0003G0013",
         "sensor_id": 13,
         "travel_time": 0.0020861527194931356,
         "coord_sensor_x": 5.5,
@@ -549,6 +610,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0003G0014",
         "sensor_id": 14,
         "travel_time": 0.0017747882444746974,
         "coord_sensor_x": 5.5,
@@ -558,6 +620,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0003G0015",
         "sensor_id": 15,
         "travel_time": 0.0018924007781315679,
         "coord_sensor_x": 5.5,
@@ -567,6 +630,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0003G0016",
         "sensor_id": 16,
         "travel_time": 0.0014376916956959243,
         "coord_sensor_x": 5.5,
@@ -576,6 +640,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0003G0017",
         "sensor_id": 17,
         "travel_time": 0.0025209229215043885,
         "coord_sensor_x": 5.5,
@@ -585,6 +650,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0003G0018",
         "sensor_id": 18,
         "travel_time": 0.0014711094758756416,
         "coord_sensor_x": 5.5,
@@ -594,6 +660,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0003G0019",
         "sensor_id": 19,
         "travel_time": 0.002362979559284158,
         "coord_sensor_x": 6.5,
@@ -603,6 +670,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0003G0020",
         "sensor_id": 20,
         "travel_time": 0.0010648183221387446,
         "coord_sensor_x": 6.5,
@@ -612,6 +680,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0003G0021",
         "sensor_id": 21,
         "travel_time": 0.002994750434628236,
         "coord_sensor_x": 6.5,
@@ -621,6 +690,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0003G0022",
         "sensor_id": 22,
         "travel_time": 0.0012896263592838948,
         "coord_sensor_x": 6.5,
@@ -630,6 +700,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0003G0023",
         "sensor_id": 23,
         "travel_time": 0.0028561776663208267,
         "coord_sensor_x": 6.5,
@@ -639,6 +710,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0003G0024",
         "sensor_id": 24,
         "travel_time": 0.0007994124951437952,
         "coord_sensor_x": 6.5,
@@ -648,6 +720,7 @@
         "coord_source_y": 2.0
     },
     {
+        "trace_id": "S0004G0001",
         "sensor_id": 1,
         "travel_time": 0.0031717198134052424,
         "coord_sensor_x": 3.5,
@@ -657,6 +730,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0004G0002",
         "sensor_id": 2,
         "travel_time": 0.0017639445003208487,
         "coord_sensor_x": 3.5,
@@ -666,6 +740,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0004G0003",
         "sensor_id": 3,
         "travel_time": 0.0027603754427257517,
         "coord_sensor_x": 3.5,
@@ -675,6 +750,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0004G0004",
         "sensor_id": 4,
         "travel_time": 0.0003538711524523149,
         "coord_sensor_x": 3.5,
@@ -684,6 +760,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0004G0005",
         "sensor_id": 5,
         "travel_time": 0.0028000261686121743,
         "coord_sensor_x": 3.5,
@@ -693,6 +770,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0004G0006",
         "sensor_id": 6,
         "travel_time": 0.0019046762244843134,
         "coord_sensor_x": 3.5,
@@ -702,6 +780,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0004G0007",
         "sensor_id": 7,
         "travel_time": 0.002278059746509775,
         "coord_sensor_x": 4.5,
@@ -711,6 +790,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0004G0008",
         "sensor_id": 8,
         "travel_time": 0.0008027165152163816,
         "coord_sensor_x": 4.5,
@@ -720,6 +800,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0004G0009",
         "sensor_id": 9,
         "travel_time": 0.0024856731451545094,
         "coord_sensor_x": 4.5,
@@ -729,6 +810,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0004G0010",
         "sensor_id": 10,
         "travel_time": 0.002156738758538477,
         "coord_sensor_x": 4.5,
@@ -738,6 +820,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0004G0011",
         "sensor_id": 11,
         "travel_time": 0.0017942717022480445,
         "coord_sensor_x": 4.5,
@@ -747,6 +830,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0004G0012",
         "sensor_id": 12,
         "travel_time": 0.0012695660848514238,
         "coord_sensor_x": 4.5,
@@ -756,6 +840,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0004G0013",
         "sensor_id": 13,
         "travel_time": 0.002155116687259239,
         "coord_sensor_x": 5.5,
@@ -765,6 +850,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0004G0014",
         "sensor_id": 14,
         "travel_time": 0.0024677059520818753,
         "coord_sensor_x": 5.5,
@@ -774,6 +860,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0004G0015",
         "sensor_id": 15,
         "travel_time": 0.001276661593523231,
         "coord_sensor_x": 5.5,
@@ -783,6 +870,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0004G0016",
         "sensor_id": 16,
         "travel_time": 0.0017509909108711706,
         "coord_sensor_x": 5.5,
@@ -792,6 +880,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0004G0017",
         "sensor_id": 17,
         "travel_time": 0.0019223356996369886,
         "coord_sensor_x": 5.5,
@@ -801,6 +890,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0004G0018",
         "sensor_id": 18,
         "travel_time": 0.0027960402549850405,
         "coord_sensor_x": 5.5,
@@ -810,6 +900,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0004G0019",
         "sensor_id": 19,
         "travel_time": 0.0007922770767249111,
         "coord_sensor_x": 6.5,
@@ -819,6 +910,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0004G0020",
         "sensor_id": 20,
         "travel_time": 0.0022663158470109628,
         "coord_sensor_x": 6.5,
@@ -828,6 +920,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0004G0021",
         "sensor_id": 21,
         "travel_time": 0.0017844977713751004,
         "coord_sensor_x": 6.5,
@@ -837,6 +930,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0004G0022",
         "sensor_id": 22,
         "travel_time": 0.003182911805639143,
         "coord_sensor_x": 6.5,
@@ -846,6 +940,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0004G0023",
         "sensor_id": 23,
         "travel_time": 0.0003611511351622464,
         "coord_sensor_x": 6.5,
@@ -855,6 +950,7 @@
         "coord_source_y": 8.0
     },
     {
+        "trace_id": "S0004G0024",
         "sensor_id": 24,
         "travel_time": 0.0027748699155765826,
         "coord_sensor_x": 6.5,
